@@ -1,0 +1,10 @@
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\bin\Debug\27.01.21_Log4netInserter.exe.config
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\bin\Debug\27.01.21_Log4netInserter.exe
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\bin\Debug\27.01.21_Log4netInserter.pdb
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\27.01.21_Log4netInserter.csprojAssemblyReference.cache
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\_27._01._21_Log4netInserter.Properties.Resources.resources
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\27.01.21_Log4netInserter.csproj.GenerateResource.cache
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\27.01.21_Log4netInserter.csproj.CoreCompileInputs.cache
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\27.01.21_Log4netInserter.exe
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\27.01.21_Log4netInserter.pdb
+E:\source\repos\27.01.21_Log4netInserter\27.01.21_Log4netInserter\obj\Debug\_27._01._21_Log4netInserter.Form1.resources

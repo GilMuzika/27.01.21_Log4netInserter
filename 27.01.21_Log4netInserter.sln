@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.01.21_Log4netInserter", "27.01.21_Log4netInserter\27.01.21_Log4netInserter.csproj", "{99E1B4B0-52D5-4AD6-9373-8E78B2E1FB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E1B4B0-52D5-4AD6-9373-8E78B2E1FB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E1B4B0-52D5-4AD6-9373-8E78B2E1FB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E1B4B0-52D5-4AD6-9373-8E78B2E1FB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E1B4B0-52D5-4AD6-9373-8E78B2E1FB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5989A4F8-A98E-45FE-A75B-75D25A5E7FE1}
+	EndGlobalSection
+EndGlobal
